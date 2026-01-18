@@ -12,9 +12,10 @@ website:
 
 format:
   html:
-    theme: cyborg
+    theme: sandstone
     css: styles.css
     toc: true
+
 
 
 
